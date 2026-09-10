@@ -1,0 +1,48 @@
+{
+  "model": "ResNet50",
+  "dataset": "RTSD",
+  "test_images": 2241,
+  "num_classes": 15,
+  "conditions": [
+    "original",
+    "small",
+    "blur",
+    "dark"
+  ],
+  "input_size": "224x224",
+  "batch_size": 32,
+  "results": [
+    {
+      "condition": "original",
+      "accuracy": 0.9683177153056671,
+      "errors": 71,
+      "total_images": 2241,
+      "mean_confidence": 0.9590607734462716,
+      "time_seconds": 356.45450205700035
+    },
+    {
+      "condition": "small",
+      "accuracy": 0.966086568496207,
+      "errors": 76,
+      "total_images": 2241,
+      "mean_confidence": 0.9587324015240966,
+      "time_seconds": 344.25448242399943
+    },
+    {
+      "condition": "blur",
+      "accuracy": 0.9625167336010709,
+      "errors": 84,
+      "total_images": 2241,
+      "mean_confidence": 0.9522084335180224,
+      "time_seconds": 478.14339339199796
+    },
+    {
+      "condition": "dark",
+      "accuracy": 0.9366354306113343,
+      "errors": 142,
+      "total_images": 2241,
+      "mean_confidence": 0.9118672598025354,
+      "time_seconds": 382.5228471590017
+    }
+  ]
+}

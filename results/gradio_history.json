@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-09-09 16:43:10",
+    "model": "ResNet50",
+    "filename": "correct_1_1_23.jpg",
+    "predicted_class": "1_23",
+    "confidence": 0.9999483823776245
+  },
+  {
+    "timestamp": "2026-09-09 16:47:40",
+    "model": "ResNet50",
+    "filename": "error_1_5_15_1_to_5_15_2_2.jpg",
+    "predicted_class": "5_15_2_2",
+    "confidence": 0.993026614189148
+  },
+  {
+    "timestamp": "2026-09-09 16:50:33",
+    "model": "ResNet50",
+    "filename": "correct_2_2_1.jpg",
+    "predicted_class": "2_1",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-09-09 16:51:32",
+    "model": "ResNet50",
+    "filename": "error_2_5_20_to_5_19_1.jpg",
+    "predicted_class": "5_19_1",
+    "confidence": 0.5399993062019348
+  },
+  {
+    "timestamp": "2026-09-09 16:56:20",
+    "model": "ResNet50",
+    "filename": "correct_3_5_16.jpg",
+    "predicted_class": "5_16",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2026-09-09 16:59:23",
+    "model": "ResNet50",
+    "filename": "error_3_3_24_to_3_27.jpg",
+    "predicted_class": "3_27",
+    "confidence": 0.6543090343475342
+  }
+]
