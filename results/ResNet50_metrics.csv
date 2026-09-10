@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,test_loss,epochs,input_size,batch_size,total_params,trainable_params,non_trainable_params
+ResNet50,0.9683177153056671,0.9684249621948935,0.9685900494481124,0.9682688596313376,0.10701537877321243,5,224x224,32,23618447,30735,23587712

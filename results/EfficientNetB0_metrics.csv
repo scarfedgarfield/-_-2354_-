@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,test_loss,epochs,input_size,batch_size,total_params,trainable_params,non_trainable_params
+EfficientNetB0,0.9460062472110665,0.9458979930728225,0.9466662262580381,0.9457020577166861,0.17676357924938202,5,224x224,32,4068786,19215,4049571.0

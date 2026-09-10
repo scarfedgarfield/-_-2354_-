@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,test_loss,epochs,input_size,batch_size,total_params,trainable_params,non_trainable_params
+MobileNetV2,0.9442213297634985,0.9457643170256534,0.9439138844863019,0.9440868411582393,0.16756479442119598,5,224x224,32,2277199,19215,2257984

@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,test_loss,epochs,input_size,batch_size,total_params,trainable_params,non_trainable_params
+DenseNet121,0.9397590361445783,0.9405262135590697,0.9395363671432265,0.9391501380096483,0.19911158084869385,5,224x224,32,7052879,15375,7037504

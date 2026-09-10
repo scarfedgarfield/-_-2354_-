@@ -1,0 +1,2 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,test_loss,epochs,input_size,batch_size,total_params,trainable_params,non_trainable_params
+VGG16,0.9602855867916109,0.9606007391249025,0.9598131058965771,0.9599526584205124,0.1380876898765564,5,224x224,32,14722383,7695,14714688
